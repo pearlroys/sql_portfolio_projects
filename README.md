@@ -1,5 +1,5 @@
 # sql_portfolio_projects
-# Nashville Housing SQL Project and Covid 19 SQL peojects
+# Nashville Housing SQL Project and Covid 19 SQL projects
 
 Covid 19 SQL Data Exploration using Google Big Query and Post gres SQL
 
